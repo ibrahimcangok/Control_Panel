@@ -1,0 +1,1 @@
+This project is a program that periodically scans the installed applications in the Windows Control Panel and records these applications into a database. The application uses the Windows Registry to detect installed programs and stores this information in a Microsoft Access database. The database is updated with each new scan, and newly found programs are recorded.
